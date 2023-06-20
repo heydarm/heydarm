@@ -46,6 +46,5 @@ I have led a team of 3 senior engineers to successfully launch multiple customer
 - GraphQL
 - Deno and its differences from Node
 
-[![Heydar Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=heydarm&hide_title=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heydarm&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
